@@ -20,3 +20,5 @@ https://github.com/2303A52060/23CSBTB39-40/blob/main/AIML_ASSIGNMENT_8.ipynb
 https://github.com/2303A52060/23CSBTB39-40/blob/main/Assignment_9.ipynb
 
 https://github.com/2303A52060/23CSBTB39-40/blob/main/AIML_A_10_2.ipynb
+
+https://github.com/2303A52060/23CSBTB39-40/blob/main/LAB_EXAM(ANSWER).ipynb
